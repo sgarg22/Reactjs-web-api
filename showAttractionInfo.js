@@ -1,4 +1,3 @@
-// StAuth10244: I Sharansh Garg, 000870996 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else
 
 import React, {useState} from 'react';
 import {Alert, Modal, StyleSheet, Text, Pressable, View} from 'react-native';
