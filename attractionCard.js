@@ -2,7 +2,7 @@ import { useState } from "react";
 import { FlatList, Image, Modal, Pressable, Text, View, StyleSheet, TouchableOpacity } from "react-native";
 import useFetch from "./fetchActivities";
 import axios from "axios";
-// StAuth10244: I Sharansh Garg, 000870996 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else
+
 
 const AttractionCard = (placedata) => {
     const place = placedata.placedata;
